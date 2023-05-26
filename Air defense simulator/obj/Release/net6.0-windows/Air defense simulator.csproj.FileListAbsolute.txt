@@ -1,0 +1,18 @@
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\bin\Release\net6.0-windows\Air defense simulator.exe
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\bin\Release\net6.0-windows\Air defense simulator.deps.json
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\bin\Release\net6.0-windows\Air defense simulator.runtimeconfig.json
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\bin\Release\net6.0-windows\Air defense simulator.dll
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\bin\Release\net6.0-windows\Air defense simulator.pdb
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\obj\Release\net6.0-windows\Air defense simulator.csproj.AssemblyReference.cache
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\obj\Release\net6.0-windows\Air_defense_simulator.ADS.resources
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\obj\Release\net6.0-windows\Air_defense_simulator.Properties.Resources.resources
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\obj\Release\net6.0-windows\Air defense simulator.csproj.GenerateResource.cache
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\obj\Release\net6.0-windows\Air defense simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\obj\Release\net6.0-windows\Air defense simulator.AssemblyInfoInputs.cache
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\obj\Release\net6.0-windows\Air defense simulator.AssemblyInfo.cs
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\obj\Release\net6.0-windows\Air defense simulator.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\obj\Release\net6.0-windows\Air defense simulator.dll
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\obj\Release\net6.0-windows\refint\Air defense simulator.dll
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\obj\Release\net6.0-windows\Air defense simulator.pdb
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\obj\Release\net6.0-windows\Air defense simulator.genruntimeconfig.cache
+C:\Users\Guilherme Ribeiro\source\repos\Air defense simulator\Air defense simulator\obj\Release\net6.0-windows\ref\Air defense simulator.dll

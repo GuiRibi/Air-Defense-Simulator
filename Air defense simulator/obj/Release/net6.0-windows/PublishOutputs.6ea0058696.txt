@@ -1,0 +1,5 @@
+C:\Users\Guilherme Ribeiro\Desktop\Air defense simulator\app\Air defense simulator.exe
+C:\Users\Guilherme Ribeiro\Desktop\Air defense simulator\app\Air defense simulator.dll
+C:\Users\Guilherme Ribeiro\Desktop\Air defense simulator\app\Air defense simulator.deps.json
+C:\Users\Guilherme Ribeiro\Desktop\Air defense simulator\app\Air defense simulator.runtimeconfig.json
+C:\Users\Guilherme Ribeiro\Desktop\Air defense simulator\app\Air defense simulator.pdb
